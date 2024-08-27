@@ -3,15 +3,11 @@
 ## I'm a Student!!
 
 ## Connect with me:
-
-[![website](./img/globe-light.svg)](https://x.yzzi.icu#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://x.yzzi.icu#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/123#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/123#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/xiaoyulejia#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/xiaoyulejia#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/xiaoyulejia#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/xiaoyulejia#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/123#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/123#gh-dark-mode-only)
 
 ## GitHub Stats
 
